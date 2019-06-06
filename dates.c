@@ -3,7 +3,6 @@
 //  
 //  compute the number of days between two dates
 //
-//   Gavin Anderson, 17GKA2, 20116948
 //   Arsh Kochhar, 17AK126. 20104779 
 
 #include <stdio.h>
